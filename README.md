@@ -25,15 +25,6 @@ A complete web-based Employee Management System built using **HTML, CSS, JavaScr
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Firebase Authentication + Firestore
-## 📸 Screenshots
 
-## Ems Page
-![Ems](main page.png)
-
-### 🧑‍💼 Admin Dashboard
-![Admin](Admindashboard.png)
-
-### 🕒 Hr dasnboard Page
-!{HR](Hr dashboard.png)
 
 

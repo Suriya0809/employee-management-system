@@ -1,17 +1,17 @@
-# Employee Management System 🧑‍💼
+# Employee Management System 
 
 A complete web-based Employee Management System built using **HTML, CSS, JavaScript**, and **Firebase**. This system supports role-based access for Admins, HRs, and Employees with features like login, leave management, and attendance tracking.
 
-## 🚀 Features
+##  Features
 
-- 🔐 Firebase Authentication-based Login
-- 🎯 Role-Based Access: Admin, HR, and Employee
-- 🕒 Attendance Marking System
-- 📝 Leave Requests and Approvals
-- 📊 Real-Time Dashboard using Firestore
-- 🎨 Responsive Design with Clean UI
+-  Firebase Authentication-based Login
+-  Role-Based Access: Admin, HR, and Employee
+-  Attendance Marking System
+-  Leave Requests and Approvals
+-  Real-Time Dashboard using Firestore
+-  Responsive Design with Clean UI
 
-## 📁 Folder Contents
+##  Folder Contents
 
 > All files are in single HTML files with embedded JavaScript and CSS. Here's an example of key pages:
 
@@ -25,4 +25,15 @@ A complete web-based Employee Management System built using **HTML, CSS, JavaScr
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Firebase Authentication + Firestore
+## 📸 Screenshots
+
+## Ems Page
+![Ems](main page.png)
+
+### 🧑‍💼 Admin Dashboard
+![Admin](Admindashboard.png)
+
+### 🕒 Hr dasnboard Page
+!{HR](Hr dashboard.png)
+
 

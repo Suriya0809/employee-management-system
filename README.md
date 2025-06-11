@@ -34,7 +34,7 @@ A complete web-based Employee Management System built using **HTML, CSS, JavaScr
 ![Dashboard](Admindashboard.png)
 
 ### HR DASHBOARD Page
-![HR](Hrdasnboard.png)
+![HR](Hrdashboard.png)
 
 
 

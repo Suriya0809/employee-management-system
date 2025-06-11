@@ -33,6 +33,12 @@ A complete web-based Employee Management System built using **HTML, CSS, JavaScr
 ### 🧑‍💼 Admin Dashboard
 ![Dashboard](Admindashboard.png)
 
+### 🕒 Attendance Page
+![Attendance](Attendencerecord.png)
+
+### 📄 Leave Request Page
+![Leave](leaverequest.png)
+
 ### HR DASHBOARD Page
 ![HR](Hrdashboard.png)
 

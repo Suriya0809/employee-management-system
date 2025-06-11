@@ -21,10 +21,21 @@ A complete web-based Employee Management System built using **HTML, CSS, JavaScr
 - `hr_dashboard.html` – Leave Approval
 - `firebase-config.html` – Firebase integration (embedded)
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Firebase Authentication + Firestore
+## 📸 Screenshots
+
+### 🔐 Main  Page
+![EMS](mainpage.png)
+
+### 🧑‍💼 Admin Dashboard
+![Dashboard](Admindashboard.png)
+
+### HR DASHBOARD Page
+![HR](Hrdasnboard.png)
+
 
 
 
